@@ -1,6 +1,9 @@
 #WEBFORMEXAMPLE
 
+
+
 Description:
+
 •	We have made a simple webpage using BOOTSTRAP
 
 •	It has a form which has the following labels- “EMPLOYEE ID:”,”EMPLOYEE NAME:”,”EMAIL:”
@@ -15,6 +18,8 @@ Description:
 
 •	A resetForm() function is provided so that after saving the details our values gets removed from the input field and we can type new set of values.
 
+
+
 Benefits:
  •	It can be used by any software application that needs backend database.
  
@@ -26,6 +31,8 @@ Benefits:
  
  •	It minimizes the development cost, time to market and also the cost to ownership.
 
-Released on:
+
+
+Released on: 
  3/07/2022
 
